@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Sanjaya Sapkota's github stats](https://github-readme-stats.vercel.app/api?username=sonzay281&count_private=true&show_icons=true&theme=cobalt)
 -->
- Hi, Im [Sanjaya Sapkota](https://www.linkedin.com/in/sonzay/) passionate Software Engineer from Nepal. I'm doing my BSc.CSSE at [PCPS](https://patancollege.edu.np/).  
+ Hi, Im [Sanjaya Sapkota](https://www.linkedin.com/in/sonzay/) passionate Software Engineer from Nepal. I'm BSc.CSSE graduate from [PCPS](https://patancollege.edu.np/).  
  - 🔭 I’m currently working on [InfiniaPOS](https://infiniapos.com) and some other side projects.
 - 🌱 I’m currently learning TypeScript and NodeJs.
 - 👯 I’m looking to collaborate on opensource projects.
