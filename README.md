@@ -1,26 +1,9 @@
 ### Hi there 👋
 
-<!--
-**sonzay281/sonzay281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, Im [Sanjaya Sapkota](https://www.linkedin.com/in/sonzay/) passionate Sr. Fullstack Software Engineer. I hold a Master of Science (MSc) in Informatics from Högskolan Väst in Trollhättan and am pursuing a second Master's degree in Computer Science at Maharishi International University.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning TypeScript and Node
-- 👯 I’m looking to collaborate on opensource projects.
-- 🤔 I’m looking for help with
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Sanjaya Sapkota's github stats](https://github-readme-stats.vercel.app/api?username=sonzay281&count_private=true&show_icons=true&theme=cobalt)
--->
- Hi, Im [Sanjaya Sapkota](https://www.linkedin.com/in/sonzay/) passionate Software Engineer from Nepal. I'm BSc.CSSE graduate from [PCPS](https://patancollege.edu.np/).  
- - 🔭 I’m currently working on [InfiniaPOS](https://infiniapos.com) and some other side projects.
-- 🌱 I’m currently learning TypeScript and NodeJs.
-- 👯 I’m looking to collaborate on opensource projects.
-- 💬 Ask me about React,Java,SQL,JavaScript or simply anything.I will be honest.
+- 💬 Ask me about React, NextJs, Java (Spring Boot), SQL (MySQL, PostgreSQL), JavaScript/TypeScript, or simply anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sonzay/)
-- ⚡ Fun fact: You will find a little bit weirdo at first.
+- ⚡ Fun fact: Introverted by nature, but can ambivert in no time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonzay281&layout=compact)
