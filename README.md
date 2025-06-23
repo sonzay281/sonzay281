@@ -22,8 +22,8 @@ Experienced Java Full-Stack Software Engineer with over 6 years of demonstrated 
 - **Languages:** Java, JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, Redux, Redux-saga, jQuery, HTML5, CSS3, SASS, Bootstrap, Tailwind CSS, Ant Design, Material UI
 - **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices, REST API, Node.js
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Cloud & DevOps:** AWS (EC2, S3, IAM, CloudFront, Lambda), GCP (Compute Engine, Pub/Sub, Cloud Storage), Docker
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB)
+- **Cloud & DevOps:** AWS (EC2, S3, IAM, CloudFront, Lambda, SNS, SQS), GCP (Compute Engine, Pub/Sub, Cloud Storage), Docker
 - **Tools:** Git (GitHub, GitLab), Webpack, Vite, Jira, Dynatrace
 - **Others:** Agile/Scrum, Technical Mentorship
 
